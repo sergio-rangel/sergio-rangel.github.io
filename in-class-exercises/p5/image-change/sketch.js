@@ -2,7 +2,7 @@ let image1;
 let image2;
 
 function setup(){
-  image2 = "images/IMG_0403.jpg"
+  image2 = "images/IMG_0262.jpg"
   image1 = document.querySelector("#image");
   setTimeout(changeImage, 3000);
 }
